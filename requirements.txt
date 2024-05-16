@@ -50,3 +50,4 @@ plotly>=5,<6
 bqplot
 
 statsbombpy
+pyoliteutils
